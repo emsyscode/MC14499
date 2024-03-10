@@ -8,7 +8,7 @@
 /*I'm let the values to sent as binnary, this allow swap bit by bit   */
 /* to is possible test segment by segment without convert to HEX      */
 /**********************************************************************/
-/* This code show how is possible work with the driver SN75518 Sanyo  */
+/* This show how is possible work with the driver MC14499 of Motorola */
 /*                                                                    */
 /**********************************************************************/
 
